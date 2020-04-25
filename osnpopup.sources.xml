@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sourcecat sourcecatname="Haxer87 - OSN Pop Up - XMLTV">
+	<source type="gen_xmltv" channels="/etc/epgimport/osnpopup.channels.xml">
+		<description>OSN Pop Up Channels - English Only</description>
+		<url>/etc/epgimport/osnpopup.xml</url>
+	</source>
+</sourcecat>
