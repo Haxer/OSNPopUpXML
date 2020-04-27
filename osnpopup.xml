@@ -6,156 +6,6 @@
   <channel id="OSN.Pop.Up.Family.Fun">
     <display-name lang="en">OSN Pop Up Family Fun</display-name>
   </channel>
-<programme start="20200425033500 +0300" stop="20200425055500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Divergent</title>
-<desc lang="en">2014: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.</desc>
-<sub-title lang="en">Action, Adventure, Mystery</sub-title>
-</programme>
-<programme start="20200425055500 +0300" stop="20200425080000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Insurgent</title>
-<desc lang="en">2015: Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart with the help from others on her side.</desc>
-<sub-title lang="en">Action, Adventure, Mystery</sub-title>
-</programme>
-<programme start="20200425080000 +0300" stop="20200425100000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Allegiant</title>
-<desc lang="en">2016: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.</desc>
-<sub-title lang="en">Action, Adventure, Mystery</sub-title>
-</programme>
-<programme start="20200425100000 +0300" stop="20200425122000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">The Hunger Games</title>
-<desc lang="en">2012: Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200425122000 +0300" stop="20200425144500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">The Hunger Games: Catching Fire</title>
-<desc lang="en">2013: Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200425144500 +0300" stop="20200425165000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">The Hunger Games: Mockingjay - Part 1</title>
-<desc lang="en">2014: Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200425165000 +0300" stop="20200425190500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">The Hunger Games: Mockingjay - Part 2</title>
-<desc lang="en">2015: Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200425190500 +0300" stop="20200425210500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Olympus Has Fallen</title>
-<desc lang="en">2013: Disgraced Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.</desc>
-<sub-title lang="en">Action, Thriller</sub-title>
-</programme>
-<programme start="20200425210500 +0300" stop="20200425224500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">London Has Fallen</title>
-<desc lang="en">2016: In London for the Prime Minister's funeral, Mike Banning is caught up in a plot to assassinate all the attending world leaders.</desc>
-<sub-title lang="en">Action, Thriller</sub-title>
-</programme>
-<programme start="20200425224500 +0300" stop="20200426004500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Angel Has Fallen</title>
-<desc lang="en">2019: Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.</desc>
-<sub-title lang="en">Action, Thriller</sub-title>
-</programme>
-<programme start="20200426004500 +0300" stop="20200426023500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Mechanic: Resurrection</title>
-<desc lang="en">2016: Bishop's most formidable foe kidnaps the love of his life in order to make him complete three impossible assassinations and make them look like accidents.</desc>
-<sub-title lang="en">Action, Adventure, Thriller</sub-title>
-</programme>
-<programme start="20200426023500 +0300" stop="20200426050500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">The Hunger Games</title>
-<desc lang="en">2012: Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200426050500 +0300" stop="20200426074000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">The Hunger Games: Catching Fire</title>
-<desc lang="en">2013: Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200426074000 +0300" stop="20200426095000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">The Hunger Games: Mockingjay - Part 1</title>
-<desc lang="en">2014: Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200426095000 +0300" stop="20200426121000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">The Hunger Games: Mockingjay - Part 2</title>
-<desc lang="en">2015: Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200426121000 +0300" stop="20200426141000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Now You See Me</title>
-<desc lang="en">2013: An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.</desc>
-<sub-title lang="en">Crime, Mystery, Thriller</sub-title>
-</programme>
-<programme start="20200426141000 +0300" stop="20200426162500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Now You See Me 2</title>
-<desc lang="en">2016: The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.</desc>
-<sub-title lang="en">Crime, Mystery, Thriller</sub-title>
-</programme>
-<programme start="20200426162500 +0300" stop="20200426184500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Divergent</title>
-<desc lang="en">2014: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.</desc>
-<sub-title lang="en">Action, Adventure, Mystery</sub-title>
-</programme>
-<programme start="20200426184500 +0300" stop="20200426204500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Insurgent</title>
-<desc lang="en">2015: Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart with the help from others on her side.</desc>
-<sub-title lang="en">Action, Adventure, Mystery</sub-title>
-</programme>
-<programme start="20200426204500 +0300" stop="20200426224500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Allegiant</title>
-<desc lang="en">2016: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.</desc>
-<sub-title lang="en">Action, Adventure, Mystery</sub-title>
-</programme>
-<programme start="20200426224500 +0300" stop="20200427004000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Escape Plan</title>
-<desc lang="en">2013: When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside.</desc>
-<sub-title lang="en">Action, Thriller</sub-title>
-</programme>
-<programme start="20200427004000 +0300" stop="20200427021500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Escape Plan 2: Hades</title>
-<desc lang="en">2018: Years after he fought his way out of an inescapable prison, Ray Breslin has organized a new top-notch security force. But when one of his team members goes missing, Breslin must return to the hell he once escaped from.</desc>
-<sub-title lang="en">Action, Thriller</sub-title>
-</programme>
-<programme start="20200427021500 +0300" stop="20200427035500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Escape Plan: The Extractors</title>
-<desc lang="en">2019: After security expert Ray Breslin is hired to rescue the kidnapped daughter of a Hong Kong tech mogul from a formidable Latvian prison, Breslin's girlfriend is also captured.</desc>
-<sub-title lang="en">Action, Thriller</sub-title>
-</programme>
-<programme start="20200427035500 +0300" stop="20200427055000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Now You See Me</title>
-<desc lang="en">2013: An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.</desc>
-<sub-title lang="en">Crime, Mystery, Thriller</sub-title>
-</programme>
-<programme start="20200427055000 +0300" stop="20200427080000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Now You See Me 2</title>
-<desc lang="en">2016: The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.</desc>
-<sub-title lang="en">Crime, Mystery, Thriller</sub-title>
-</programme>
-<programme start="20200427080000 +0300" stop="20200427094000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Men In Black</title>
-<desc lang="en">1997: A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.</desc>
-<sub-title lang="en">Action, Adventure, Comedy</sub-title>
-</programme>
-<programme start="20200427094000 +0300" stop="20200427111000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Men In Black II</title>
-<desc lang="en">2002: Agent J is sent to find Agent K and restore his memory after the re-appearance of a case from K's past.</desc>
-<sub-title lang="en">Action, Adventure, Comedy</sub-title>
-</programme>
-<programme start="20200427111000 +0300" stop="20200427125500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">Men In Black 3</title>
-<desc lang="en">2012: Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.</desc>
-<sub-title lang="en">Action, Adventure, Comedy</sub-title>
-</programme>
-<programme start="20200427125500 +0300" stop="20200427151500 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">The Hunger Games</title>
-<desc lang="en">2012: Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200427151500 +0300" stop="20200427174000 +0300" channel="OSN.Pop.Up.Super.Collection">
-<title lang="en">The Hunger Games: Catching Fire</title>
-<desc lang="en">2013: Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
 <programme start="20200427174000 +0300" stop="20200427194000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">The Hunger Games: Mockingjay - Part 1</title>
 <desc lang="en">2014: Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.</desc>
@@ -296,12 +146,17 @@
 <desc lang="en">2012: After the birth of Renesmee/Nessie, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.</desc>
 <sub-title lang="en">Drama, Fantasy, Romance</sub-title>
 </programme>
-<programme start="20200430023000 +0300" stop="20200430042500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200430023000 +0300" stop="20200430040000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Men In Black II</title>
+<desc lang="en">2002: Agent J is sent to find Agent K and restore his memory after the re-appearance of a case from K's past.</desc>
+<sub-title lang="en">Action, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200430040000 +0300" stop="20200430055500 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Now You See Me</title>
 <desc lang="en">2013: An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.</desc>
 <sub-title lang="en">Crime, Mystery, Thriller</sub-title>
 </programme>
-<programme start="20200430042500 +0300" stop="20200430080000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200430055500 +0300" stop="20200430080000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Now You See Me 2</title>
 <desc lang="en">2016: The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.</desc>
 <sub-title lang="en">Crime, Mystery, Thriller</sub-title>
@@ -336,305 +191,145 @@
 <desc lang="en">2002: Agent J is sent to find Agent K and restore his memory after the re-appearance of a case from K's past.</desc>
 <sub-title lang="en">Action, Adventure, Comedy</sub-title>
 </programme>
-<programme start="20200430201000 +0300" stop="20200430215500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200430201000 +0300" stop="20200430220000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Men In Black 3</title>
 <desc lang="en">2012: Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.</desc>
 <sub-title lang="en">Action, Adventure, Comedy</sub-title>
 </programme>
-<programme start="20200430215500 +0300" stop="20200430235000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200430220000 +0300" stop="20200501000000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Now You See Me</title>
 <desc lang="en">2013: An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.</desc>
 <sub-title lang="en">Crime, Mystery, Thriller</sub-title>
 </programme>
-<programme start="20200430235000 +0300" stop="20200501020000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200501000000 +0300" stop="20200501021500 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Now You See Me 2</title>
 <desc lang="en">2016: The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.</desc>
 <sub-title lang="en">Crime, Mystery, Thriller</sub-title>
 </programme>
-<programme start="20200501020000 +0300" stop="20200501042000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200501021500 +0300" stop="20200501044500 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">The Hunger Games</title>
 <desc lang="en">2012: Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.</desc>
 <sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
 </programme>
-<programme start="20200501042000 +0300" stop="20200501080000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200501044500 +0300" stop="20200501072000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">The Hunger Games: Catching Fire</title>
 <desc lang="en">2013: Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.</desc>
 <sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
 </programme>
-<programme start="20200501080000 +0300" stop="20200501102000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200501072000 +0300" stop="20200501094000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Divergent</title>
 <desc lang="en">2014: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.</desc>
 <sub-title lang="en">Action, Adventure, Mystery</sub-title>
 </programme>
-<programme start="20200501102000 +0300" stop="20200501122000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200501094000 +0300" stop="20200501114000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Insurgent</title>
 <desc lang="en">2015: Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart with the help from others on her side.</desc>
 <sub-title lang="en">Action, Adventure, Mystery</sub-title>
 </programme>
-<programme start="20200501122000 +0300" stop="20200501142000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200501114000 +0300" stop="20200501134000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Allegiant</title>
 <desc lang="en">2016: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.</desc>
 <sub-title lang="en">Action, Adventure, Mystery</sub-title>
 </programme>
-<programme start="20200501142000 +0300" stop="20200501164000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200501134000 +0300" stop="20200501160500 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">The Hunger Games</title>
 <desc lang="en">2012: Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.</desc>
 <sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
 </programme>
-<programme start="20200501164000 +0300" stop="20200501190500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200501160500 +0300" stop="20200501183000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">The Hunger Games: Catching Fire</title>
 <desc lang="en">2013: Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.</desc>
 <sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
 </programme>
-<programme start="20200501190500 +0300" stop="20200501210500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200501183000 +0300" stop="20200501203000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">The Hunger Games: Mockingjay - Part 1</title>
 <desc lang="en">2014: Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.</desc>
 <sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
 </programme>
-<programme start="20200501210500 +0300" stop="20200501232000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200501203000 +0300" stop="20200501225000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">The Hunger Games: Mockingjay - Part 2</title>
 <desc lang="en">2015: Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.</desc>
 <sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
 </programme>
-<programme start="20200501232000 +0300" stop="20200502012000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200501225000 +0300" stop="20200502005000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Olympus Has Fallen</title>
 <desc lang="en">2013: Disgraced Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.</desc>
 <sub-title lang="en">Action, Thriller</sub-title>
 </programme>
-<programme start="20200502012000 +0300" stop="20200502030000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502005000 +0300" stop="20200502023000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">London Has Fallen</title>
 <desc lang="en">2016: In London for the Prime Minister's funeral, Mike Banning is caught up in a plot to assassinate all the attending world leaders.</desc>
 <sub-title lang="en">Action, Thriller</sub-title>
 </programme>
-<programme start="20200502030000 +0300" stop="20200502050000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502023000 +0300" stop="20200502043000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Angel Has Fallen</title>
 <desc lang="en">2019: Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.</desc>
 <sub-title lang="en">Action, Thriller</sub-title>
 </programme>
-<programme start="20200502050000 +0300" stop="20200502065500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502043000 +0300" stop="20200502062500 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Now You See Me</title>
 <desc lang="en">2013: An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.</desc>
 <sub-title lang="en">Crime, Mystery, Thriller</sub-title>
 </programme>
-<programme start="20200502065500 +0300" stop="20200502200000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502062500 +0300" stop="20200502084000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Now You See Me 2</title>
 <desc lang="en">2016: The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.</desc>
 <sub-title lang="en">Crime, Mystery, Thriller</sub-title>
 </programme>
-<programme start="20200502080000 +0300" stop="20200502094000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502084000 +0300" stop="20200502102000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Men In Black</title>
 <desc lang="en">1997: A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.</desc>
 <sub-title lang="en">Action, Adventure, Comedy</sub-title>
 </programme>
-<programme start="20200502094000 +0300" stop="20200502111000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502102000 +0300" stop="20200502115000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Men In Black II</title>
 <desc lang="en">2002: Agent J is sent to find Agent K and restore his memory after the re-appearance of a case from K's past.</desc>
 <sub-title lang="en">Action, Adventure, Comedy</sub-title>
 </programme>
-<programme start="20200502111000 +0300" stop="20200502125500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502115000 +0300" stop="20200502133500 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Men In Black 3</title>
 <desc lang="en">2012: Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.</desc>
 <sub-title lang="en">Action, Adventure, Comedy</sub-title>
 </programme>
-<programme start="20200502125500 +0300" stop="20200502151500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502133500 +0300" stop="20200502155500 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Divergent</title>
 <desc lang="en">2014: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.</desc>
 <sub-title lang="en">Action, Adventure, Mystery</sub-title>
 </programme>
-<programme start="20200502151500 +0300" stop="20200502171500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502155500 +0300" stop="20200502175500 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Insurgent</title>
 <desc lang="en">2015: Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart with the help from others on her side.</desc>
 <sub-title lang="en">Action, Adventure, Mystery</sub-title>
 </programme>
-<programme start="20200502171500 +0300" stop="20200502191500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502175500 +0300" stop="20200502195500 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Allegiant</title>
 <desc lang="en">2016: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.</desc>
 <sub-title lang="en">Action, Adventure, Mystery</sub-title>
 </programme>
-<programme start="20200502191500 +0300" stop="20200502210000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502195500 +0300" stop="20200502214000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">The Expendables</title>
 <desc lang="en">2010: A CIA operative hires a team of mercenaries to eliminate a Latin dictator and a renegade CIA agent.</desc>
 <sub-title lang="en">Action, Adventure, Thriller</sub-title>
 </programme>
-<programme start="20200502210000 +0300" stop="20200502224500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502214000 +0300" stop="20200502232500 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">The Expendables 2</title>
 <desc lang="en">2012: Mr. Church reunites the Expendables for what should be an easy paycheck, but when one of their men is murdered on the job, their quest for revenge puts them deep in enemy territory and up against an unexpected threat.</desc>
 <sub-title lang="en">Action, Adventure, Thriller</sub-title>
 </programme>
-<programme start="20200502224500 +0300" stop="20200503010000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200502232500 +0300" stop="20200503014000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">The Expendables 3</title>
 <desc lang="en">2014: Barney augments his team with new blood for a personal battle: to take down Conrad Stonebanks, the Expendables co-founder and notorious arms trader who is hell bent on wiping out Barney and every single one of his associates.</desc>
 <sub-title lang="en">Action, Adventure, Thriller</sub-title>
 </programme>
-<programme start="20200503010000 +0300" stop="20200503024000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200503014000 +0300" stop="20200503032000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Men In Black</title>
 <desc lang="en">1997: A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.</desc>
 <sub-title lang="en">Action, Adventure, Comedy</sub-title>
 </programme>
-<programme start="20200503024000 +0300" stop="20200503041000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<programme start="20200503032000 +0300" stop="20200503045000 +0300" channel="OSN.Pop.Up.Super.Collection">
 <title lang="en">Men In Black II</title>
 <desc lang="en">2002: Agent J is sent to find Agent K and restore his memory after the re-appearance of a case from K's past.</desc>
 <sub-title lang="en">Action, Adventure, Comedy</sub-title>
-</programme>
-<programme start="20200425030000 +0300" stop="20200425044500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">My Girl</title>
-<desc lang="en">1991: A young girl, on the threshold of her teen years, finds her life turning upside down, when she is accompanied by an unlikely friend.</desc>
-<sub-title lang="en">Comedy, Drama, Family</sub-title>
-</programme>
-<programme start="20200425044500 +0300" stop="20200425064500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Indiana Jones Raiders Of The Lost Ark</title>
-<desc lang="en">1981: In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.</desc>
-<sub-title lang="en">Action, Adventure </sub-title>
-</programme>
-<programme start="20200425064500 +0300" stop="20200425090000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Black Panther</title>
-<desc lang="en">2018: T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200425090000 +0300" stop="20200425110000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Dumbo</title>
-<desc lang="en">2019: A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.</desc>
-<sub-title lang="en">Adventure, Family, Fantasy </sub-title>
-</programme>
-<programme start="20200425110000 +0300" stop="20200425131500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Mary Poppins Returns</title>
-<desc lang="en">2018: A few decades after her original visit, Mary Poppins, the magical nanny, returns to help the Banks siblings and Michael's children through a difficult time in their lives.</desc>
-<sub-title lang="en">Comedy, Family, Fantasy</sub-title>
-</programme>
-<programme start="20200425131500 +0300" stop="20200425150500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">My Girl</title>
-<desc lang="en">1991: A young girl, on the threshold of her teen years, finds her life turning upside down, when she is accompanied by an unlikely friend.</desc>
-<sub-title lang="en">Comedy, Drama, Family</sub-title>
-</programme>
-<programme start="20200425150500 +0300" stop="20200425165500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Pete's Dragon</title>
-<desc lang="en">2016: The adventures of an orphaned boy named Pete and his best friend Elliott, who happens to be a dragon.</desc>
-<sub-title lang="en">Action, Adventure, Comedy</sub-title>
-</programme>
-<programme start="20200425165500 +0300" stop="20200425183000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Megamind</title>
-<desc lang="en">2010: The supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life.</desc>
-<sub-title lang="en">Animation, Action, Comedy</sub-title>
-</programme>
-<programme start="20200425183000 +0300" stop="20200425203000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">The Odd Life Of Timothy Green</title>
-<desc lang="en">2012: A childless couple bury a box in their backyard, containing all of their wishes for an infant. Soon, a child is born, though Timothy Green is not all that he appears.</desc>
-<sub-title lang="en">Comedy, Drama, Family</sub-title>
-</programme>
-<programme start="20200425203000 +0300" stop="20200425224500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Black Panther</title>
-<desc lang="en">2018: T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200425224500 +0300" stop="20200426005500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Mary Poppins Returns</title>
-<desc lang="en">2018: A few decades after her original visit, Mary Poppins, the magical nanny, returns to help the Banks siblings and Michael's children through a difficult time in their lives.</desc>
-<sub-title lang="en">Comedy, Family, Fantasy</sub-title>
-</programme>
-<programme start="20200426005500 +0300" stop="20200426024000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Pete's Dragon</title>
-<desc lang="en">2016: The adventures of an orphaned boy named Pete and his best friend Elliott, who happens to be a dragon.</desc>
-<sub-title lang="en">Action, Adventure, Comedy</sub-title>
-</programme>
-<programme start="20200426024000 +0300" stop="20200426041000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Wonder Park</title>
-<desc lang="en">2019: Wonder Park tells the story of an amusement park where the imagination of a wildly creative girl named June comes alive.</desc>
-<sub-title lang="en">Animation, Adventure, Comedy</sub-title>
-</programme>
-<programme start="20200426041000 +0300" stop="20200426055500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">The Odd Life Of Timothy Green</title>
-<desc lang="en">2012: A childless couple bury a box in their backyard, containing all of their wishes for an infant. Soon, a child is born, though Timothy Green is not all that he appears.</desc>
-<sub-title lang="en">Comedy, Drama, Family</sub-title>
-</programme>
-<programme start="20200426055500 +0300" stop="20200426080500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Black Panther</title>
-<desc lang="en">2018: T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200426080500 +0300" stop="20200426095000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Pete's Dragon</title>
-<desc lang="en">2016: The adventures of an orphaned boy named Pete and his best friend Elliott, who happens to be a dragon.</desc>
-<sub-title lang="en">Action, Adventure, Comedy</sub-title>
-</programme>
-<programme start="20200426095000 +0300" stop="20200426112500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Megamind</title>
-<desc lang="en">2010: The supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life.</desc>
-<sub-title lang="en">Animation, Action, Comedy</sub-title>
-</programme>
-<programme start="20200426112500 +0300" stop="20200426130000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Furry Vengeance</title>
-<desc lang="en">2010: In the Oregon wilderness, a real-estate developer's new housing subdivision faces a unique group of protestors: local woodland creatures who don't want their homes disturbed.</desc>
-<sub-title lang="en">Comedy, Family</sub-title>
-</programme>
-<programme start="20200426130000 +0300" stop="20200426150000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">The Odd Life Of Timothy Green</title>
-<desc lang="en">2012: A childless couple bury a box in their backyard, containing all of their wishes for an infant. Soon, a child is born, though Timothy Green is not all that he appears.</desc>
-<sub-title lang="en">Comedy, Drama, Family</sub-title>
-</programme>
-<programme start="20200426150000 +0300" stop="20200426171500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">The Amazing Spider-Man</title>
-<desc lang="en">2012: After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200426171500 +0300" stop="20200426191500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Ralph Breaks The Internet</title>
-<desc lang="en">2018: Six years after the events of "Wreck-It Ralph," Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.</desc>
-<sub-title lang="en">Animation, Adventure, Comedy</sub-title>
-</programme>
-<programme start="20200426191500 +0300" stop="20200426212000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Into The Woods</title>
-<desc lang="en">2014: A witch tasks a childless baker and his wife with procuring magical items from classic fairy tales to reverse the curse put on their family tree.</desc>
-<sub-title lang="en">Adventure, Comedy, Drama</sub-title>
-</programme>
-<programme start="20200426212000 +0300" stop="20200426230500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Aladdin</title>
-<desc lang="en">2019: A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.</desc>
-<sub-title lang="en">Adventure, Family, Fantasy</sub-title>
-</programme>
-<programme start="20200426230500 +0300" stop="20200427004000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Furry Vengeance</title>
-<desc lang="en">2010: In the Oregon wilderness, a real-estate developer's new housing subdivision faces a unique group of protestors: local woodland creatures who don't want their homes disturbed.</desc>
-<sub-title lang="en">Comedy, Family</sub-title>
-</programme>
-<programme start="20200427004000 +0300" stop="20200427025500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">The Amazing Spider-Man</title>
-<desc lang="en">2012: After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200427025500 +0300" stop="20200427050000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Into The Woods</title>
-<desc lang="en">2014: A witch tasks a childless baker and his wife with procuring magical items from classic fairy tales to reverse the curse put on their family tree.</desc>
-<sub-title lang="en">Adventure, Comedy, Drama</sub-title>
-</programme>
-<programme start="20200427050000 +0300" stop="20200427064500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Aladdin</title>
-<desc lang="en">2019: A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.</desc>
-<sub-title lang="en">Adventure, Family, Fantasy</sub-title>
-</programme>
-<programme start="20200427064500 +0300" stop="20200427090000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">The Amazing Spider-Man</title>
-<desc lang="en">2012: After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
-</programme>
-<programme start="20200427090000 +0300" stop="20200427110000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Ralph Breaks The Internet</title>
-<desc lang="en">2018: Six years after the events of "Wreck-It Ralph," Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.</desc>
-<sub-title lang="en">Animation, Adventure, Comedy</sub-title>
-</programme>
-<programme start="20200427110000 +0300" stop="20200427125500 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Alice In Wonderland</title>
-<desc lang="en">2010: Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.</desc>
-<sub-title lang="en">Adventure, Family, Fantasy </sub-title>
-</programme>
-<programme start="20200427125500 +0300" stop="20200427150000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">Into The Woods</title>
-<desc lang="en">2014: A witch tasks a childless baker and his wife with procuring magical items from classic fairy tales to reverse the curse put on their family tree.</desc>
-<sub-title lang="en">Adventure, Comedy, Drama</sub-title>
-</programme>
-<programme start="20200427150000 +0300" stop="20200427172000 +0300" channel="OSN.Pop.Up.Family.Fun">
-<title lang="en">The Amazing Spider-Man 2</title>
-<desc lang="en">2014: When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.</desc>
-<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
 </programme>
 <programme start="20200427172000 +0300" stop="20200427193500 +0300" channel="OSN.Pop.Up.Family.Fun">
 <title lang="en">Oz The Great And Powerful</title>
@@ -835,5 +530,370 @@
 <title lang="en">G-Force</title>
 <desc lang="en">2009: A specially trained squad of guinea pigs is dispatched to stop a diabolical billionaire from taking over the world.</desc>
 <sub-title lang="en">Action, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200501032000 +0300" stop="20200501052000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Alice In Wonderland</title>
+<desc lang="en">2010: Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy </sub-title>
+</programme>
+<programme start="20200501052000 +0300" stop="20200501072000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Dumbo</title>
+<desc lang="en">2019: A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy </sub-title>
+</programme>
+<programme start="20200501072000 +0300" stop="20200501090000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">G-Force</title>
+<desc lang="en">2009: A specially trained squad of guinea pigs is dispatched to stop a diabolical billionaire from taking over the world.</desc>
+<sub-title lang="en">Action, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200501090000 +0300" stop="20200501111500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Alice In Wonderland</title>
+<desc lang="en">2010: Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy </sub-title>
+</programme>
+<programme start="20200501111500 +0300" stop="20200501131500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Maleficent</title>
+<desc lang="en">2014: A vengeful fairy is driven to curse an infant princess, only to discover that the child may be the one person who can restore peace to their troubled land.</desc>
+<sub-title lang="en">Action, Adventure, Family</sub-title>
+</programme>
+<programme start="20200501131500 +0300" stop="20200501150000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Aladdin</title>
+<desc lang="en">2019: A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy</sub-title>
+</programme>
+<programme start="20200501150000 +0300" stop="20200501164500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Diary Of A Wimpy Kid</title>
+<desc lang="en">2010: The adventures of a 12 year old who is fresh out of elementary and transitions to middle school, where he has to learn the consequences and responsibility to survive the year.</desc>
+<sub-title lang="en">Comedy, Drama, Family</sub-title>
+</programme>
+<programme start="20200501164500 +0300" stop="20200501184500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Percy Jackson And The Lightning Thief</title>
+<desc lang="en">2010: A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy</sub-title>
+</programme>
+<programme start="20200501184500 +0300" stop="20200501203500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Pete's Dragon</title>
+<desc lang="en">2016: The adventures of an orphaned boy named Pete and his best friend Elliott, who happens to be a dragon.</desc>
+<sub-title lang="en">Action, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200501203500 +0300" stop="20200501225000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Oz The Great And Powerful</title>
+<desc lang="en">2013: A frustrated circus magician from Kansas is transported to a magical land called Oz, where he will have to fulfill a prophecy to become the king, and release the land from the Wicked Witches using his great (but fake) powers.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy</sub-title>
+</programme>
+<programme start="20200501225000 +0300" stop="20200502005000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Maleficent</title>
+<desc lang="en">2014: A vengeful fairy is driven to curse an infant princess, only to discover that the child may be the one person who can restore peace to their troubled land.</desc>
+<sub-title lang="en">Action, Adventure, Family</sub-title>
+</programme>
+<programme start="20200502005000 +0300" stop="20200502023500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Diary Of A Wimpy Kid</title>
+<desc lang="en">2010: The adventures of a 12 year old who is fresh out of elementary and transitions to middle school, where he has to learn the consequences and responsibility to survive the year.</desc>
+<sub-title lang="en">Comedy, Drama, Family</sub-title>
+</programme>
+<programme start="20200502023500 +0300" stop="20200502042500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Pete's Dragon</title>
+<desc lang="en">2016: The adventures of an orphaned boy named Pete and his best friend Elliott, who happens to be a dragon.</desc>
+<sub-title lang="en">Action, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200502042500 +0300" stop="20200502070000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Oz The Great And Powerful</title>
+<desc lang="en">2013: A frustrated circus magician from Kansas is transported to a magical land called Oz, where he will have to fulfill a prophecy to become the king, and release the land from the Wicked Witches using his great (but fake) powers.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy</sub-title>
+</programme>
+<programme start="20200502070000 +0300" stop="20200502090000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Diary Of A Wimpy Kid</title>
+<desc lang="en">2010: The adventures of a 12 year old who is fresh out of elementary and transitions to middle school, where he has to learn the consequences and responsibility to survive the year.</desc>
+<sub-title lang="en">Comedy, Drama, Family</sub-title>
+</programme>
+<programme start="20200502090000 +0300" stop="20200502110000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Percy Jackson And The Lightning Thief</title>
+<desc lang="en">2010: A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy</sub-title>
+</programme>
+<programme start="20200502110000 +0300" stop="20200502131500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Ralph Breaks The Internet</title>
+<desc lang="en">2018: Six years after the events of "Wreck-It Ralph," Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.</desc>
+<sub-title lang="en">Animation, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200502131500 +0300" stop="20200502144500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Aladdin And The King Of Thieves</title>
+<desc lang="en">1996: The King of Thieves disrupts Aladdin and Jasmine's long-anticipated wedding, looking for an oracle that will lead him to an even bigger treasure. His true identity causes trouble for Aladdin.</desc>
+<sub-title lang="en">Animation, Adventure, Comedy </sub-title>
+</programme>
+<programme start="20200502144500 +0300" stop="20200502164500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">The Odd Life Of Timothy Green</title>
+<desc lang="en">2012: A childless couple bury a box in their backyard, containing all of their wishes for an infant. Soon, a child is born, though Timothy Green is not all that he appears.</desc>
+<sub-title lang="en">Comedy, Drama, Family</sub-title>
+</programme>
+<programme start="20200502164500 +0300" stop="20200502185000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Into The Woods</title>
+<desc lang="en">2014: A witch tasks a childless baker and his wife with procuring magical items from classic fairy tales to reverse the curse put on their family tree.</desc>
+<sub-title lang="en">Adventure, Comedy, Drama</sub-title>
+</programme>
+<programme start="20200502185000 +0300" stop="20200502203500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Race To Witch Mountain</title>
+<desc lang="en">2009: A Las Vegas cabbie enlists the help of a UFO expert to protect two siblings with paranormal powers from the clutches of an organization that wants to use the kids for their nefarious plans.</desc>
+<sub-title lang="en">Action, Adventure, Family</sub-title>
+</programme>
+<programme start="20200502203500 +0300" stop="20200502221000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Furry Vengeance</title>
+<desc lang="en">2010: In the Oregon wilderness, a real-estate developer's new housing subdivision faces a unique group of protestors: local woodland creatures who don't want their homes disturbed.</desc>
+<sub-title lang="en">Comedy, Family</sub-title>
+</programme>
+<programme start="20200502221000 +0300" stop="20200503001000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Ralph Breaks The Internet</title>
+<desc lang="en">2018: Six years after the events of "Wreck-It Ralph," Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.</desc>
+<sub-title lang="en">Animation, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200503001000 +0300" stop="20200503021000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">The Odd Life Of Timothy Green</title>
+<desc lang="en">2012: A childless couple bury a box in their backyard, containing all of their wishes for an infant. Soon, a child is born, though Timothy Green is not all that he appears.</desc>
+<sub-title lang="en">Comedy, Drama, Family</sub-title>
+</programme>
+<programme start="20200503021000 +0300" stop="20200503035500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Race To Witch Mountain</title>
+<desc lang="en">2009: A Las Vegas cabbie enlists the help of a UFO expert to protect two siblings with paranormal powers from the clutches of an organization that wants to use the kids for their nefarious plans.</desc>
+<sub-title lang="en">Action, Adventure, Family</sub-title>
+</programme>
+<programme start="20200503035500 +0300" stop="20200503053000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Furry Vengeance</title>
+<desc lang="en">2010: In the Oregon wilderness, a real-estate developer's new housing subdivision faces a unique group of protestors: local woodland creatures who don't want their homes disturbed.</desc>
+<sub-title lang="en">Comedy, Family</sub-title>
+</programme>
+<programme start="20200503053000 +0300" stop="20200503070000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Aladdin And The King Of Thieves</title>
+<desc lang="en">1996: The King of Thieves disrupts Aladdin and Jasmine's long-anticipated wedding, looking for an oracle that will lead him to an even bigger treasure. His true identity causes trouble for Aladdin.</desc>
+<sub-title lang="en">Animation, Adventure, Comedy </sub-title>
+</programme>
+<programme start="20200503070000 +0300" stop="20200503090000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">The Odd Life Of Timothy Green</title>
+<desc lang="en">2012: A childless couple bury a box in their backyard, containing all of their wishes for an infant. Soon, a child is born, though Timothy Green is not all that he appears.</desc>
+<sub-title lang="en">Comedy, Drama, Family</sub-title>
+</programme>
+<programme start="20200503090000 +0300" stop="20200503110500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Into The Woods</title>
+<desc lang="en">2014: A witch tasks a childless baker and his wife with procuring magical items from classic fairy tales to reverse the curse put on their family tree.</desc>
+<sub-title lang="en">Adventure, Comedy, Drama</sub-title>
+</programme>
+<programme start="20200503110500 +0300" stop="20200503130500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Alice In Wonderland</title>
+<desc lang="en">2010: Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy </sub-title>
+</programme>
+<programme start="20200503130500 +0300" stop="20200503150500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Alice Through The Looking Glass</title>
+<desc lang="en">2016: Alice returns to the whimsical world of Wonderland and travels back in time to help the Mad Hatter.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy</sub-title>
+</programme>
+<programme start="20200503150500 +0300" stop="20200503165000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">My Girl</title>
+<desc lang="en">1991: A young girl, on the threshold of her teen years, finds her life turning upside down, when she is accompanied by an unlikely friend.</desc>
+<sub-title lang="en">Comedy, Drama, Family</sub-title>
+</programme>
+<programme start="20200503165000 +0300" stop="20200503190000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">G-Force</title>
+<desc lang="en">2009: A specially trained squad of guinea pigs is dispatched to stop a diabolical billionaire from taking over the world.</desc>
+<sub-title lang="en">Action, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200503190000 +0300" stop="20200503210000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Indiana Jones Raiders Of The Lost Ark</title>
+<desc lang="en">1981: In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.</desc>
+<sub-title lang="en">Action, Adventure</sub-title>
+</programme>
+<programme start="20200503210000 +0300" stop="20200503232500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Chitty Chitty Bang Bang</title>
+<desc lang="en">1968: A down-on-his-luck inventor turns a broken-down Grand Prix car into a fancy vehicle for his children, and then they go off on a magical fantasy adventure to save their grandfather in a far-off land.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy</sub-title>
+</programme>
+<programme start="20200503232500 +0300" stop="20200504012500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Alice In Wonderland</title>
+<desc lang="en">2010: Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy </sub-title>
+</programme>
+<programme start="20200504012500 +0300" stop="20200504032500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Alice Through The Looking Glass</title>
+<desc lang="en">2016: Alice returns to the whimsical world of Wonderland and travels back in time to help the Mad Hatter.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy</sub-title>
+</programme>
+<programme start="20200504032500 +0300" stop="20200504052500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Indiana Jones Raiders Of The Lost Ark</title>
+<desc lang="en">1981: In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.</desc>
+<sub-title lang="en">Action, Adventure</sub-title>
+</programme>
+<programme start="20200504052500 +0300" stop="20200504075500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Chitty Chitty Bang Bang</title>
+<desc lang="en">1968: A down-on-his-luck inventor turns a broken-down Grand Prix car into a fancy vehicle for his children, and then they go off on a magical fantasy adventure to save their grandfather in a far-off land.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy</sub-title>
+</programme>
+<programme start="20200504075500 +0300" stop="20200504095000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">My Girl</title>
+<desc lang="en">1991: A young girl, on the threshold of her teen years, finds her life turning upside down, when she is accompanied by an unlikely friend.</desc>
+<sub-title lang="en">Comedy, Drama, Family</sub-title>
+</programme>
+<programme start="20200504095000 +0300" stop="20200504112500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">G-Force</title>
+<desc lang="en">2009: A specially trained squad of guinea pigs is dispatched to stop a diabolical billionaire from taking over the world.</desc>
+<sub-title lang="en">Action, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200504112500 +0300" stop="20200504130000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Diary Of A Wimpy Kid</title>
+<desc lang="en">2010: The adventures of a 12 year old who is fresh out of elementary and transitions to middle school, where he has to learn the consequences and responsibility to survive the year.</desc>
+<sub-title lang="en">Comedy, Drama, Family</sub-title>
+</programme>
+<programme start="20200504130000 +0300" stop="20200504150000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Indiana Jones Raiders Of The Lost Ark</title>
+<desc lang="en">1981: In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.</desc>
+<sub-title lang="en">Action, Adventure</sub-title>
+</programme>
+<programme start="20200504150000 +0300" stop="20200504170000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Dumbo</title>
+<desc lang="en">2019: A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy </sub-title>
+</programme>
+<programme start="20200504170000 +0300" stop="20200504190000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Megamind</title>
+<desc lang="en">2010: The supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life.</desc>
+<sub-title lang="en">Animation, Action, Comedy</sub-title>
+</programme>
+<programme start="20200504190000 +0300" stop="20200504210000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Indiana Jones And The Temple Od Doom</title>
+<desc lang="en">1984: In 1935, Indiana Jones arrives in India, still part of the British Empire, and is asked to find a mystical stone. He then stumbles upon a secret cult committing enslavement and human sacrifices in the catacombs of an ancient palace.</desc>
+<sub-title lang="en">Action, Adventure</sub-title>
+</programme>
+<programme start="20200504210000 +0300" stop="20200504231000 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Aladdin</title>
+<desc lang="en">2019: A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy</sub-title>
+</programme>
+<programme start="20200504231000 +0300" stop="20200505005500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Diary Of A Wimpy Kid</title>
+<desc lang="en">2010: The adventures of a 12 year old who is fresh out of elementary and transitions to middle school, where he has to learn the consequences and responsibility to survive the year.</desc>
+<sub-title lang="en">Comedy, Drama, Family</sub-title>
+</programme>
+<programme start="20200505005500 +0300" stop="20200505025500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Dumbo</title>
+<desc lang="en">2019: A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.</desc>
+<sub-title lang="en">Adventure, Family, Fantasy </sub-title>
+</programme>
+<programme start="20200505025500 +0300" stop="20200505045500 +0300" channel="OSN.Pop.Up.Family.Fun">
+<title lang="en">Indiana Jones And The Temple Od Doom</title>
+<desc lang="en">1984: In 1935, Indiana Jones arrives in India, still part of the British Empire, and is asked to find a mystical stone. He then stumbles upon a secret cult committing enslavement and human sacrifices in the catacombs of an ancient palace.</desc>
+<sub-title lang="en">Action, Adventure</sub-title>
+</programme>
+<programme start="20200503045000 +0300" stop="20200503080000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Men In Black 3</title>
+<desc lang="en">2012: Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.</desc>
+<sub-title lang="en">Action, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200503080000 +0300" stop="20200503102000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Divergent</title>
+<desc lang="en">2014: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.</desc>
+<sub-title lang="en">Action, Adventure, Mystery</sub-title>
+</programme>
+<programme start="20200503102000 +0300" stop="20200503122000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Insurgent</title>
+<desc lang="en">2015: Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart with the help from others on her side.</desc>
+<sub-title lang="en">Action, Adventure, Mystery</sub-title>
+</programme>
+<programme start="20200503122000 +0300" stop="20200503142000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Allegiant</title>
+<desc lang="en">2016: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.</desc>
+<sub-title lang="en">Action, Adventure, Mystery</sub-title>
+</programme>
+<programme start="20200503142000 +0300" stop="20200503161500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Now You See Me</title>
+<desc lang="en">2013: An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.</desc>
+<sub-title lang="en">Crime, Mystery, Thriller</sub-title>
+</programme>
+<programme start="20200503161500 +0300" stop="20200503182500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Now You See Me 2</title>
+<desc lang="en">2016: The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.</desc>
+<sub-title lang="en">Crime, Mystery, Thriller</sub-title>
+</programme>
+<programme start="20200503182500 +0300" stop="20200503202500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Twilight</title>
+<desc lang="en">2008: Bella Swan moves to Forks and encounters Edward Cullen, a gorgeous boy with a secret.</desc>
+<sub-title lang="en">Drama, Fantasy, Romance</sub-title>
+</programme>
+<programme start="20200503202500 +0300" stop="20200503223500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">The Twilight SAGA: New Moon</title>
+<desc lang="en">2009: Edward leaves Bella after an attack that nearly claimed her life, and, in her depression, she falls into yet another difficult relationship - this time with her close friend, Jacob Black.</desc>
+<sub-title lang="en">Drama, Fantasy, Romance</sub-title>
+</programme>
+<programme start="20200503223500 +0300" stop="20200504004000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">The Twilight SAGA: Eclipse</title>
+<desc lang="en">2010: As a string of mysterious killings grips Seattle, Bella, whose high school graduation is fast approaching, is forced to choose between her love for vampire Edward and her friendship with werewolf Jacob.</desc>
+<sub-title lang="en">Drama, Fantasy, Romance</sub-title>
+</programme>
+<programme start="20200504004000 +0300" stop="20200504024000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">The Twilight SAGA: Breaking Dawn - Part 1</title>
+<desc lang="en">2011: The Quileutes close in on expecting parents Edward and Bella, whose unborn child poses a threat to the Wolf Pack and the towns people of Forks.</desc>
+<sub-title lang="en">Drama, Fantasy, Romance</sub-title>
+</programme>
+<programme start="20200504024000 +0300" stop="20200504043500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">The Twilight SAGA: Breaking Dawn - Part 2</title>
+<desc lang="en">2012: After the birth of Renesmee/Nessie, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.</desc>
+<sub-title lang="en">Drama, Fantasy, Romance</sub-title>
+</programme>
+<programme start="20200504043500 +0300" stop="20200504065500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Divergent</title>
+<desc lang="en">2014: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.</desc>
+<sub-title lang="en">Action, Adventure, Mystery</sub-title>
+</programme>
+<programme start="20200504065500 +0300" stop="20200504080000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Insurgent</title>
+<desc lang="en">2015: Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart with the help from others on her side.</desc>
+<sub-title lang="en">Action, Adventure, Mystery</sub-title>
+</programme>
+<programme start="20200504080000 +0300" stop="20200504100000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Allegiant</title>
+<desc lang="en">2016: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.</desc>
+<sub-title lang="en">Action, Adventure, Mystery</sub-title>
+</programme>
+<programme start="20200504100000 +0300" stop="20200504115500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Now You See Me</title>
+<desc lang="en">2013: An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.</desc>
+<sub-title lang="en">Crime, Mystery, Thriller</sub-title>
+</programme>
+<programme start="20200504115500 +0300" stop="20200504140500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Now You See Me 2</title>
+<desc lang="en">2016: The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.</desc>
+<sub-title lang="en">Crime, Mystery, Thriller</sub-title>
+</programme>
+<programme start="20200504140500 +0300" stop="20200504154500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Men In Black</title>
+<desc lang="en">1997: A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.</desc>
+<sub-title lang="en">Action, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200504154500 +0300" stop="20200504171500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Men In Black II</title>
+<desc lang="en">2002: Agent J is sent to find Agent K and restore his memory after the re-appearance of a case from K's past.</desc>
+<sub-title lang="en">Action, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200504171500 +0300" stop="20200504190000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">Men In Black 3</title>
+<desc lang="en">2012: Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.</desc>
+<sub-title lang="en">Action, Adventure, Comedy</sub-title>
+</programme>
+<programme start="20200504190000 +0300" stop="20200504212000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">The Hunger Games</title>
+<desc lang="en">2012: Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.</desc>
+<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
+</programme>
+<programme start="20200504212000 +0300" stop="20200504234500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">The Hunger Games: Catching Fire</title>
+<desc lang="en">2013: Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.</desc>
+<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
+</programme>
+<programme start="20200504234500 +0300" stop="20200505014500 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">The Hunger Games: Mockingjay - Part 1</title>
+<desc lang="en">2014: Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.</desc>
+<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
+</programme>
+<programme start="20200505014500 +0300" stop="20200505040000 +0300" channel="OSN.Pop.Up.Super.Collection">
+<title lang="en">The Hunger Games: Mockingjay - Part 2</title>
+<desc lang="en">2015: Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.</desc>
+<sub-title lang="en">Action, Adventure, Sci-Fi</sub-title>
 </programme>
 </tv>
